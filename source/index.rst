@@ -1,11 +1,11 @@
 ARPA2 HandBook
 ==============
 
->   *This document details how you can get up to pace with the ARPA2 projects,
->   and how these hang together to form what we have come to call the
->   InternetWide Architecture.  The intention being, to give you an idea
->   of practical steps to take, and their relation to other work in this
->   large project.*
+    *This document details how you can get up to pace with the ARPA2 projects,
+    and how these hang together to form what we have come to call the
+    InternetWide Architecture.  The intention being, to give you an idea
+    of practical steps to take, and their relation to other work in this
+    large project.*
 
 The **ARPA2** project is an umbrella for open source projects that implement
 the open source and open networking ideals of a secure, private and
