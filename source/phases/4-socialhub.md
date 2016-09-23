@@ -10,9 +10,6 @@ ARPA2 phase 4: SocialHub
 >   networking.  And by that, we mean at the level of the general
 >   Internet Protocol, where everyone is an equal.*
 
-Issues Addressed
-----------------
-
 This is the first phase of ARPA2, and it is targeted at letting people
 build social networks, in which they can exchange snippets of information
 in a variety of ways, either over peer-to-peer communication or using more

@@ -7,9 +7,6 @@ ARPA2 phase 3: ServiceHub
 >   services provided by other, more specialised providers to appear under
 >   the domain name.*
 
-Issues Addressed
-----------------
-
 This is the third phase of ARPA2, and it is targeted at making online
 services pluggable.  The result is that a basic identity provider can host
 the IdentityHub processes, perhaps with a few basic services, and that

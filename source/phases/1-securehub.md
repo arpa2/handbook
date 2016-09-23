@@ -5,9 +5,6 @@ ARPA2 phase 1: SecureHub
 >   spite of all the attention that has gone into our online security, much of
 >   it does not really come together.*
 
-Issues Addressed
-----------------
-
 This is the first phase of ARPA2, and it is targeted at delivering a number of
 security premises on which the later phases can build.  The end-user appeal of
 this layer is not very direct, but without this the IdentityHub phase would not

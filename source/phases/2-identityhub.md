@@ -4,9 +4,6 @@ ARPA2 phase 2: IdentityHub
 >   *The IdentityHub phase provides a management console for users, over which
 >   they can create identities for users, groups, roles, pseudonyms.*
 
-Issues Addressed
-----------------
-
 This is the second phase of ARPA2, and it is targeted at delivering an
 identity control cockpit, including every bit of cryptography that can
 be used to prove those identities.  The IdentityHub supports Kerberos,
