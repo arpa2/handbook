@@ -45,7 +45,7 @@ extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
-    'sphinx.ext.githubpages',
+    #NOT-ON-READTHEDOCS# 'sphinx.ext.githubpages',
 ]
 
 # -- RvR.BEGIN -- following https://gist.github.com/tk0miya/31b553b4bd4bf987731e
